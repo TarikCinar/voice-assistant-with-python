@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon_dur">
+    <file>icon_dur.ico</file>
+  </qresource>
+</RCC>

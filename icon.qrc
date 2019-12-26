@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>Microphone.ico</file>
+  </qresource>
+</RCC>
