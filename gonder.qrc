@@ -1,5 +1,0 @@
-<RCC>
-  <qresource prefix="newPrefix">
-    <file>gonder.ico</file>
-  </qresource>
-</RCC>
